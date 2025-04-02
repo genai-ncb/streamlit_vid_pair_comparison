@@ -1,0 +1,404 @@
+v1,v2,caption
+model_005/video_056_02.mp4,model_003/video_056_00.mp4,"
+                Prompt: A handheld camera captures a long shot of an indoor escalator. In the foreground, a lone banana sits incongruously on a step, as the bustling mall shoppers move in the background.
+
+                V1: model_005/video_056_02.mp4 	 | 	 V2: model_003/video_056_00.mp4
+
+                -Votes- V1: 0 | V2: 3
+
+                -monst3r_theta_consistency- V1: 7.283407225374167e-05 | V2: 5.895103312876817e-05
+
+                -vbench_motion_smoothness- V1: 0.9915274624811826 | V2: 0.9845614095036668
+-monst3r_v2_theta_consistency- V1: 7.42773554017427e-05 | V2: 4.768040826531932e-05
+-vggsfm_theta_consistency- V1: 0.0002139342067173 | V2: 0.0006352460905129
+"
+model_000/video_070_02.mp4,model_001/video_070_01.mp4,"
+                Prompt: In an ancient, dimly lit catacomb, a woman steels herself as she gets a piercing. The camera trucks horizontally, revealing eerie walls adorned with skulls and cobwebs, creating a palpable sense of depth and foreboding.
+
+                V1: model_000/video_070_02.mp4 	 | 	 V2: model_001/video_070_01.mp4
+
+                -Votes- V1: 0 | V2: 3
+
+                -monst3r_theta_consistency- V1: 8.190499924612404e-05 | V2: 5.487777598854351e-05
+
+                -vbench_motion_smoothness- V1: 0.9979458568471112 | V2: 0.9973255797597732
+-monst3r_v2_theta_consistency- V1: 0.0001378219365979 | V2: 4.892224925286516e-05
+-vggsfm_theta_consistency- V1: 0.0001711841913891 | V2: 0.0004233788226624
+"
+model_005/video_042_02.mp4,model_005/video_042_01.mp4,"
+                Prompt: In a sunlit orchard, amidst rows of apple trees, a medium shot captures a person warmly hugging a friend. The camera arcs around them, revealing lush greenery and ripening fruit in the background.
+
+                V1: model_005/video_042_02.mp4 	 | 	 V2: model_005/video_042_01.mp4
+
+                -Votes- V1: 0 | V2: 3
+
+                -monst3r_theta_consistency- V1: 7.266053417638814e-05 | V2: 5.715145101043966e-05
+
+                -vbench_motion_smoothness- V1: 0.9927208506377088 | V2: 0.9916125822827444
+-monst3r_v2_theta_consistency- V1: 6.808546591466806e-05 | V2: 6.62148030745969e-05
+-vggsfm_theta_consistency- V1: 0.0012137217342684 | V2: 0.0009554709908304
+"
+model_007/video_026_00.mp4,model_004/video_026_02.mp4,"
+                Prompt: A drone follows two men carrying a basket through the sprawling, complex machinery of an outdoor power plant, revealing towering structures and intricate pipes against a backdrop of clear blue sky.
+
+                V1: model_007/video_026_00.mp4 	 | 	 V2: model_004/video_026_02.mp4
+
+                -Votes- V1: 0 | V2: 3
+
+                -monst3r_theta_consistency- V1: 8.787681829355924e-05 | V2: 6.385671082006415e-05
+
+                -vbench_motion_smoothness- V1: 0.99298336101663 | V2: 0.9844663546316044
+-monst3r_v2_theta_consistency- V1: 8.26912327939478e-05 | V2: 5.783899671538992e-05
+-vggsfm_theta_consistency- V1: 0.0015487128921644 | V2: 0.0021405091348047
+"
+model_005/video_093_00.mp4,model_005/video_093_01.mp4,"
+                Prompt: The camera pushes in low over a vibrant lawn, revealing a solitary apple glistening with morning dew as it lies nestled in the grass, with the background gradually entering the frame, showcasing a serene garden.
+
+                V1: model_005/video_093_00.mp4 	 | 	 V2: model_005/video_093_01.mp4
+
+                -Votes- V1: 0 | V2: 3
+
+                -monst3r_theta_consistency- V1: 0.0001276671022647 | V2: 6.90029402782542e-05
+
+                -vbench_motion_smoothness- V1: 0.9961287010644826 | V2: 0.9958413783988712
+-monst3r_v2_theta_consistency- V1: 0.0001374457437253 | V2: 7.361438698572087e-05
+-vggsfm_theta_consistency- V1: 0.0003787365145561 | V2: 0.0002595992208742
+"
+model_002/video_060_01.mp4,model_002/video_060_00.mp4,"
+                Prompt: Three men walk along a sandy beach, their long shadows cast by the setting sun, while the camera follows their movement, capturing a medium shot aboard a boat deck.
+
+                V1: model_002/video_060_01.mp4 	 | 	 V2: model_002/video_060_00.mp4
+
+                -Votes- V1: 0 | V2: 3
+
+                -monst3r_theta_consistency- V1: 0.0001209645814587 | V2: 6.57001691470834e-05
+
+                -vbench_motion_smoothness- V1: 0.9956491382457238 | V2: 0.9943833363497672
+-monst3r_v2_theta_consistency- V1: 8.62979879224568e-05 | V2: 5.813763423780557e-05
+-vggsfm_theta_consistency- V1: 0.0004087596726328 | V2: 0.0004460243447757
+"
+model_007/video_069_01.mp4,model_007/video_069_02.mp4,"
+                Prompt: In a vast, silent anechoic chamber, a man is chasing a playful dog. The wide shot, with its steady and smooth perspective, reveals the chamber's intricate, sound-absorbing walls as the background stretches infinitely.
+
+                V1: model_007/video_069_01.mp4 	 | 	 V2: model_007/video_069_02.mp4
+
+                -Votes- V1: 0 | V2: 3
+
+                -monst3r_theta_consistency- V1: 6.15180372404352e-05 | V2: 4.814913228977357e-05
+
+                -vbench_motion_smoothness- V1: 0.9953630830378852 | V2: 0.9940598366413866
+-monst3r_v2_theta_consistency- V1: 5.4620254001405895e-05 | V2: 4.491446230354652e-05
+-vggsfm_theta_consistency- V1: 7.194167881934543e-05 | V2: 9.171695128074752e-05
+"
+model_007/video_058_02.mp4,model_005/video_058_00.mp4,"
+                Prompt: In a cozy living room, a man carefully cuts his hair while sitting near a coffee table. The camera performs a low-angle dolly shot, revealing a bookshelf in the background and a soft rug in the foreground.
+
+                V1: model_007/video_058_02.mp4 	 | 	 V2: model_005/video_058_00.mp4
+
+                -Votes- V1: 0 | V2: 3
+
+                -monst3r_theta_consistency- V1: 6.819257836281009e-05 | V2: 5.3826783545471327e-05
+
+                -vbench_motion_smoothness- V1: 0.9969131326774896 | V2: 0.9950654790272592
+-monst3r_v2_theta_consistency- V1: 6.98894613759677e-05 | V2: 5.8630305735211446e-05
+-vggsfm_theta_consistency- V1: 0.0095146801813934 | V2: 0.0012086574295133
+"
+model_002/video_078_02.mp4,model_002/video_078_01.mp4,"
+                Prompt: A lone man stands on a desolate desert road, gently holding a cat. The camera arcs around him, revealing vast, arid landscapes with cacti and distant mountains, highlighting their isolation.
+
+                V1: model_002/video_078_02.mp4 	 | 	 V2: model_002/video_078_01.mp4
+
+                -Votes- V1: 0 | V2: 3
+
+                -monst3r_theta_consistency- V1: 0.0001085730667335 | V2: 6.162803959253171e-05
+
+                -vbench_motion_smoothness- V1: 0.994773099791474 | V2: 0.9945156410194798
+-monst3r_v2_theta_consistency- V1: 6.871762779192917e-05 | V2: 5.965683199296024e-05
+-vggsfm_theta_consistency- V1: 0.0011541562215301 | V2: 0.0026089601913595
+"
+model_002/video_066_02.mp4,model_001/video_066_01.mp4,"
+                Prompt: A kid bravely dives off a cliff into a lush indoor swimming pool as the helicopter camera turns left, revealing sunlit water, surrounding palms, and cheerful onlookers creating a dynamic, immersive scene.
+
+                V1: model_002/video_066_02.mp4 	 | 	 V2: model_001/video_066_01.mp4
+
+                -Votes- V1: 0 | V2: 3
+
+                -monst3r_theta_consistency- V1: 0.0004214496895192 | V2: 0.000194709223117
+
+                -vbench_motion_smoothness- V1: 0.9918720402094052 | V2: 0.9850877722384678
+-monst3r_v2_theta_consistency- V1: 0.0003607319840889 | V2: 0.0001873221818264
+-vggsfm_theta_consistency- V1: 0.0015120306125174 | V2: 0.0057179676459234
+"
+model_005/video_034_00.mp4,model_001/video_034_01.mp4,"
+                Prompt: An aerial shot captures a cat precariously perched on the edge of a crevasse. In slow motion, the camera moves in to reveal the depth of the icy chasm, then retreats, showing the cat's daring position amidst the expansive landscape.
+
+                V1: model_005/video_034_00.mp4 	 | 	 V2: model_001/video_034_01.mp4
+
+                -Votes- V1: 0 | V2: 3
+
+                -monst3r_theta_consistency- V1: 0.0002993974166158 | V2: 0.0001762483690124
+
+                -vbench_motion_smoothness- V1: 0.9942209762202286 | V2: 0.9927141373910676
+-monst3r_v2_theta_consistency- V1: 0.000341228110291 | V2: 0.0001625532915707
+-vggsfm_theta_consistency- V1: 0.0019847363619377 | V2: 0.0012770205426911
+"
+model_006/video_095_02.mp4,model_004/video_095_00.mp4,"
+                Prompt: In a grand dining hall, a man stands alone at a table, intensely focused on a board game. The camera pulls out, revealing ornate chandeliers and long, shadowed tables stretching into the distance.
+
+                V1: model_006/video_095_02.mp4 	 | 	 V2: model_004/video_095_00.mp4
+
+                -Votes- V1: 0 | V2: 3
+
+                -monst3r_theta_consistency- V1: 6.625450551539688e-05 | V2: 3.989831629451261e-05
+
+                -vbench_motion_smoothness- V1: 0.995982860296842 | V2: 0.9887747339834504
+-monst3r_v2_theta_consistency- V1: 5.600517528165576e-05 | V2: 4.0929311746037256e-05
+-vggsfm_theta_consistency- V1: 5.037373169601077e-05 | V2: 0.0004441014541103
+"
+model_005/video_052_01.mp4,model_007/video_052_00.mp4,"
+                Prompt: In a bustling outdoor bazaar, two men chase a frisbee amidst colorful market stalls. The low aerial shot reveals vibrant fabrics and trinkets, moving up and down to capture their playful pursuit.
+
+                V1: model_005/video_052_01.mp4 	 | 	 V2: model_007/video_052_00.mp4
+
+                -Votes- V1: 0 | V2: 3
+
+                -monst3r_theta_consistency- V1: 0.0001609696630321 | V2: 5.96500351740684e-05
+
+                -vbench_motion_smoothness- V1: 0.9895485043307204 | V2: 0.987317998968534
+-monst3r_v2_theta_consistency- V1: 0.0002106358344547 | V2: 5.624599438486396e-05
+-vggsfm_theta_consistency- V1: 0.0017864134282427 | V2: 0.0079127092718506
+"
+model_005/video_057_02.mp4,model_001/video_057_00.mp4,"
+                Prompt: A low-angle dolly shot glides along an assembly line, revealing a man holding a book amidst the industrious setting, with machinery and conveyor belts creating a dynamic, busy backdrop around him.
+
+                V1: model_005/video_057_02.mp4 	 | 	 V2: model_001/video_057_00.mp4
+
+                -Votes- V1: 0 | V2: 3
+
+                -monst3r_theta_consistency- V1: 8.435833916893357e-05 | V2: 4.750684891055964e-05
+
+                -vbench_motion_smoothness- V1: 0.9916126124657764 | V2: 0.9847743517726466
+-monst3r_v2_theta_consistency- V1: 6.705822837545545e-05 | V2: 4.391901655165942e-05
+-vggsfm_theta_consistency- V1: 0.0016408156629901 | V2: 0.0003423421960111
+"
+model_003/video_048_01.mp4,model_003/video_048_00.mp4,"
+                Prompt: In a dimly-lit bar, three men lean against a brick wall, casting long shadows. The low-angle camera turns left, revealing tables, a jukebox, and patrons, creating a dynamic sense of depth.
+
+                V1: model_003/video_048_01.mp4 	 | 	 V2: model_003/video_048_00.mp4
+
+                -Votes- V1: 0 | V2: 3
+
+                -monst3r_theta_consistency- V1: 0.0001040722201482 | V2: 5.63231383811912e-05
+
+                -vbench_motion_smoothness- V1: 0.9962780847670188 | V2: 0.9960637648659756
+-monst3r_v2_theta_consistency- V1: 0.0001728177616226 | V2: 4.989125348532208e-05
+-vggsfm_theta_consistency- V1: 0.0002636146612049 | V2: 0.000874202163089
+"
+model_005/video_037_02.mp4,model_003/video_037_00.mp4,"
+                Prompt: In a first-person shot inside a lush greenhouse, the camera pans to reveal two cats eating their food amidst a backdrop of vibrant plants and hanging vines.
+
+                V1: model_005/video_037_02.mp4 	 | 	 V2: model_003/video_037_00.mp4
+
+                -Votes- V1: 0 | V2: 3
+
+                -monst3r_theta_consistency- V1: 7.112402033701363e-05 | V2: 5.534260022384576e-05
+
+                -vbench_motion_smoothness- V1: 0.9921810284835626 | V2: 0.9910594846539914
+-monst3r_v2_theta_consistency- V1: 6.557861500233392e-05 | V2: 5.897165856941825e-05
+-vggsfm_theta_consistency- V1: 0.0008939519053694 | V2: 0.0006234389395439
+"
+model_005/video_008_02.mp4,model_005/video_008_00.mp4,"
+                Prompt: In a cozy dining car, a lone woman meticulously washes a dish at a sink. The camera smoothly pans around her, briefly revealing polished wooden tables and passengers before returning to focus on her diligent work.
+
+                V1: model_005/video_008_02.mp4 	 | 	 V2: model_005/video_008_00.mp4
+
+                -Votes- V1: 0 | V2: 3
+
+                -monst3r_theta_consistency- V1: 0.0002275204472137 | V2: 5.293964709530897e-05
+
+                -vbench_motion_smoothness- V1: 0.9913255824067184 | V2: 0.9847029981637234
+-monst3r_v2_theta_consistency- V1: 0.0001308681016556 | V2: 5.107298287077973e-05
+-vggsfm_theta_consistency- V1: 0.0010522565328236 | V2: 0.0009370088517037
+"
+model_005/video_008_02.mp4,model_004/video_008_01.mp4,"
+                Prompt: In a cozy dining car, a lone woman meticulously washes a dish at a sink. The camera smoothly pans around her, briefly revealing polished wooden tables and passengers before returning to focus on her diligent work.
+
+                V1: model_005/video_008_02.mp4 	 | 	 V2: model_004/video_008_01.mp4
+
+                -Votes- V1: 0 | V2: 3
+
+                -monst3r_theta_consistency- V1: 0.0002275204472137 | V2: 8.640604487036633e-05
+
+                -vbench_motion_smoothness- V1: 0.9913255824067184 | V2: 0.9869769758045264
+-monst3r_v2_theta_consistency- V1: 0.0001308681016556 | V2: 9.68985898826516e-05
+-vggsfm_theta_consistency- V1: 0.0010522565328236 | V2: 0.0026859859825851
+"
+model_006/video_052_02.mp4,model_002/video_052_01.mp4,"
+                Prompt: In a bustling outdoor bazaar, two men chase a frisbee amidst colorful market stalls. The low aerial shot reveals vibrant fabrics and trinkets, moving up and down to capture their playful pursuit.
+
+                V1: model_006/video_052_02.mp4 	 | 	 V2: model_002/video_052_01.mp4
+
+                -Votes- V1: 0 | V2: 3
+
+                -monst3r_theta_consistency- V1: 5.442634839376687e-05 | V2: 4.041687318835363e-05
+
+                -vbench_motion_smoothness- V1: 0.9936596465797092 | V2: 0.9920665664128432
+-monst3r_v2_theta_consistency- V1: 5.840560974751677e-05 | V2: 4.841599039519714e-05
+-vggsfm_theta_consistency- V1: 0.000213534722849 | V2: 0.0006967219528567
+"
+model_001/video_045_00.mp4,model_001/video_045_02.mp4,"
+                Prompt: Two kids are canoeing by a boathouse, their playful laughter echoing across the water. From an aerial high angle, the camera executes a boom shot, revealing shimmering reflections and then returns to its original position.
+
+                V1: model_001/video_045_00.mp4 	 | 	 V2: model_001/video_045_02.mp4
+
+                -Votes- V1: 0 | V2: 3
+
+                -monst3r_theta_consistency- V1: 0.0001954705437631 | V2: 6.50970032072492e-05
+
+                -vbench_motion_smoothness- V1: 0.9913018820200544 | V2: 0.990333399421948
+-monst3r_v2_theta_consistency- V1: 0.0001814397009695 | V2: 6.538101748589296e-05
+-vggsfm_theta_consistency- V1: 0.0015202937884993 | V2: 0.0028566851756906
+"
+model_006/video_036_00.mp4,model_003/video_036_00.mp4,"
+                Prompt: The cinematic tracking shot moves through a cluttered dorm room, focusing on a lone spoon left on a messy desk, highlighting the chaotic yet personal student living space.
+
+                V1: model_006/video_036_00.mp4 	 | 	 V2: model_003/video_036_00.mp4
+
+                -Votes- V1: 0 | V2: 3
+
+                -monst3r_theta_consistency- V1: 8.008156311069401e-05 | V2: 6.037334820636716e-05
+
+                -vbench_motion_smoothness- V1: 0.9953376059655684 | V2: 0.9949895596523634
+-monst3r_v2_theta_consistency- V1: 7.823533074266501e-05 | V2: 6.333808868729397e-05
+-vggsfm_theta_consistency- V1: 6.708797950677585e-05 | V2: 0.0008212919420489
+"
+model_002/video_013_00.mp4,model_002/video_013_02.mp4,"
+                Prompt: In an aquatic theater, a girl tightrope walks gracefully above a shimmering pool, her reflection glistening below. A wide-angle camera captures the scene in slow motion, revealing the surrounding intricate water features with stunning parallax effect.
+
+                V1: model_002/video_013_00.mp4 	 | 	 V2: model_002/video_013_02.mp4
+
+                -Votes- V1: 0 | V2: 3
+
+                -monst3r_theta_consistency- V1: 6.517754499394772e-05 | V2: 5.117371557189869e-05
+
+                -vbench_motion_smoothness- V1: 0.9958349962064508 | V2: 0.994327594802088
+-monst3r_v2_theta_consistency- V1: 7.227805936485717e-05 | V2: 5.885427236433927e-05
+-vggsfm_theta_consistency- V1: 0.0062895339182328 | V2: 0.000239477145973
+"
+model_002/video_013_01.mp4,model_002/video_013_02.mp4,"
+                Prompt: In an aquatic theater, a girl tightrope walks gracefully above a shimmering pool, her reflection glistening below. A wide-angle camera captures the scene in slow motion, revealing the surrounding intricate water features with stunning parallax effect.
+
+                V1: model_002/video_013_01.mp4 	 | 	 V2: model_002/video_013_02.mp4
+
+                -Votes- V1: 0 | V2: 3
+
+                -monst3r_theta_consistency- V1: 7.296862352951239e-05 | V2: 5.117371557189869e-05
+
+                -vbench_motion_smoothness- V1: 0.996275178255056 | V2: 0.994327594802088
+-monst3r_v2_theta_consistency- V1: 7.203487910707092e-05 | V2: 5.885427236433927e-05
+-vggsfm_theta_consistency- V1: 0.0147717198811502 | V2: 0.000239477145973
+"
+model_005/video_095_02.mp4,model_004/video_095_00.mp4,"
+                Prompt: In a grand dining hall, a man stands alone at a table, intensely focused on a board game. The camera pulls out, revealing ornate chandeliers and long, shadowed tables stretching into the distance.
+
+                V1: model_005/video_095_02.mp4 	 | 	 V2: model_004/video_095_00.mp4
+
+                -Votes- V1: 0 | V2: 3
+
+                -monst3r_theta_consistency- V1: 5.309556188461227e-05 | V2: 3.989831629451261e-05
+
+                -vbench_motion_smoothness- V1: 0.9938354667375728 | V2: 0.9887747339834504
+-monst3r_v2_theta_consistency- V1: 6.322328891061005e-05 | V2: 4.0929311746037256e-05
+-vggsfm_theta_consistency- V1: 0.0003264048237514 | V2: 0.0004441014541103
+"
+model_006/video_057_01.mp4,model_001/video_057_00.mp4,"
+                Prompt: A low-angle dolly shot glides along an assembly line, revealing a man holding a book amidst the industrious setting, with machinery and conveyor belts creating a dynamic, busy backdrop around him.
+
+                V1: model_006/video_057_01.mp4 	 | 	 V2: model_001/video_057_00.mp4
+
+                -Votes- V1: 0 | V2: 3
+
+                -monst3r_theta_consistency- V1: 6.737341104108402e-05 | V2: 4.750684891055964e-05
+
+                -vbench_motion_smoothness- V1: 0.9959223849182351 | V2: 0.9847743517726466
+-monst3r_v2_theta_consistency- V1: 6.351541136197251e-05 | V2: 4.391901655165942e-05
+-vggsfm_theta_consistency- V1: 0.0002912997006085 | V2: 0.0003423421960111
+"
+model_002/video_080_00.mp4,model_002/video_080_02.mp4,"
+                Prompt: Two men are riding the gentle waves in an indoor swimming pool as an aerial tracking shot reveals the pristine water and pool structure, enhancing the sense of motion and space.
+
+                V1: model_002/video_080_00.mp4 	 | 	 V2: model_002/video_080_02.mp4
+
+                -Votes- V1: 0 | V2: 3
+
+                -monst3r_theta_consistency- V1: 0.0001103960999214 | V2: 5.02536099996842e-05
+
+                -vbench_motion_smoothness- V1: 0.9941447124810152 | V2: 0.9939623919920666
+-monst3r_v2_theta_consistency- V1: 0.0001315110291951 | V2: 4.549591198059384e-05
+-vggsfm_theta_consistency- V1: 0.0003118417690784 | V2: 0.0005468865604023
+"
+model_002/video_071_00.mp4,model_001/video_071_02.mp4,"
+                Prompt: On a sunny beach, one person swims joyfully with dolphins. The low-angle camera glides forward on a slider, revealing the glistening ocean waves and distant shoreline, creating a dynamic parallax effect.
+
+                V1: model_002/video_071_00.mp4 	 | 	 V2: model_001/video_071_02.mp4
+
+                -Votes- V1: 0 | V2: 3
+
+                -monst3r_theta_consistency- V1: 0.0001064775865834 | V2: 5.163983381942362e-05
+
+                -vbench_motion_smoothness- V1: 0.9942146493966452 | V2: 0.990676617131944
+-monst3r_v2_theta_consistency- V1: 0.0001010455079646 | V2: 5.521269009569038e-05
+-vggsfm_theta_consistency- V1: 0.001072412823298 | V2: 3.324675540635619e-05
+"
+model_002/video_019_01.mp4,model_002/video_019_00.mp4,"
+                Prompt: A wide-angle pull-out shot reveals a man on a cozy balcony, resting beside a laying dog, both mirrored in a window's reflection as they enjoy the interior view.
+
+                V1: model_002/video_019_01.mp4 	 | 	 V2: model_002/video_019_00.mp4
+
+                -Votes- V1: 0 | V2: 3
+
+                -monst3r_theta_consistency- V1: 9.323160873171792e-05 | V2: 6.483975085909514e-05
+
+                -vbench_motion_smoothness- V1: 0.9953740468409586 | V2: 0.994945313053865
+-monst3r_v2_theta_consistency- V1: 6.717051581320113e-05 | V2: 5.370859424081997e-05
+-vggsfm_theta_consistency- V1: 0.0001739308393018 | V2: 0.0003003978219508
+"
+model_005/video_003_00.mp4,model_005/video_003_01.mp4,"
+                Prompt: In an indoor firing range, a man gently feeds a woman, while the Red Dragon camera follows their movement, capturing the rows of targets and ammunition racks creating a dynamic and immersive scene.
+
+                V1: model_005/video_003_00.mp4 	 | 	 V2: model_005/video_003_01.mp4
+
+                -Votes- V1: 0 | V2: 3
+
+                -monst3r_theta_consistency- V1: 8.76318409741089e-05 | V2: 7.412309318561482e-05
+
+                -vbench_motion_smoothness- V1: 0.995909090907172 | V2: 0.994772196268192
+-monst3r_v2_theta_consistency- V1: 5.6120976510057255e-05 | V2: 5.887985955359484e-05
+-vggsfm_theta_consistency- V1: 0.0006804255967519 | V2: 0.0010028748373571
+"
+model_001/video_007_02.mp4,model_001/video_007_00.mp4,"
+                Prompt: A man rides a jet ski down a tranquil river, his reflection shimmering on the water. As the wide-angle camera pans around, the lush shoreline and distant mountains shift dynamically in the background.
+
+                V1: model_001/video_007_02.mp4 	 | 	 V2: model_001/video_007_00.mp4
+
+                -Votes- V1: 0 | V2: 3
+
+                -monst3r_theta_consistency- V1: 7.373119722682189e-05 | V2: 5.381242765943998e-05
+
+                -vbench_motion_smoothness- V1: 0.9943389531687032 | V2: 0.9918212228123854
+-monst3r_v2_theta_consistency- V1: 5.783566939673132e-05 | V2: 4.942283126684885e-05
+-vggsfm_theta_consistency- V1: 0.0008312488210916 | V2: 0.0009269251812282
+"
+model_001/video_044_02.mp4,model_002/video_044_00.mp4,"
+                Prompt: From a first-person medium shot, a boat glides through an icy sea, drifting past towering ice floes that shimmer in the cold, crisp air.
+
+                V1: model_001/video_044_02.mp4 	 | 	 V2: model_002/video_044_00.mp4
+
+                -Votes- V1: 0 | V2: 3
+
+                -monst3r_theta_consistency- V1: 0.0001321344026904 | V2: 5.418133866949744e-05
+
+                -vbench_motion_smoothness- V1: 0.9917346582429384 | V2: 0.9892395868056408
+-monst3r_v2_theta_consistency- V1: 8.107141644315325e-05 | V2: 5.4135307977432046e-05
+-vggsfm_theta_consistency- V1: 0.0016248952681645 | V2: 0.0004498116026179
+"

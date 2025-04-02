@@ -1,4 +1,18 @@
 import streamlit as st
+
+# Password protection
+if "authenticated" not in st.session_state:
+    st.session_state.authenticated = False
+
+if not st.session_state.authenticated:
+    password = st.text_input("Enter password to access the app", type="password")
+    if password == st.secrets["auth"]["password"]:
+        st.session_state.authenticated = True
+        st.rerun()
+    else:
+        st.stop()
+
+
 import pandas as pd
 import math
 

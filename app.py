@@ -26,6 +26,9 @@ csv_options = {
     "VGGSfM-Wrong": "vggsfm_theta_consistency_none_captions_all3_agree_failures_50.csv",
     "Monst3r-Wrong": "monst3r_theta_consistency_none_captions_all3_agree_failures_50.csv",
     "Monst3r-Wrong | MotionSmoothness-Correct": "monst3r_theta_consistency_vbench_motion_smoothness_captions_all3_agree_failures_50.csv",
+    "VBenchSubject-Wrong": "vbench_subject_none_captions_all3_agree_failures_50.csv",
+    "SAMCotracker-Wrong": "sam_cotracker_none_captions_all3_agree_failures_50.csv",
+    "SAMCotrackerPair-Wrong": "sam_cotracker_pair_none_captions_all3_agree_failures_50.csv",
 }
 
 # Load CSV
